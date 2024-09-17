@@ -1,3 +1,3 @@
 # Project_Calypso
 
-First commit test
+Experience the ultimate all-in-one military simulation with this groundbreaking tactical shooter, built on Unreal Engine 5 to set a new standard in the Milsim community. Designed for players to plan, train, and execute missions seamlessly, the game emphasizes small-unit tactics with enhanced AI command and pathing. Featuring an expansive open-world 'capture the island' mode with strategic points, a robust inventory system for realistic loadouts, and an optional planning room for mission coordination, the game delivers immersive PVEVP multiplayer, blending player skill with AI and environmental challenges for an unmatched tactical experience.
